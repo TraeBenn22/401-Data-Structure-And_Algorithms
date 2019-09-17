@@ -1,0 +1,22 @@
+{
+  "name": "401-data-structure-and_algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TraeBenn22/401-Data-Structure-And_Algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TraeBenn22/401-Data-Structure-And_Algorithms/issues"
+  },
+  "homepage": "https://github.com/TraeBenn22/401-Data-Structure-And_Algorithms#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
