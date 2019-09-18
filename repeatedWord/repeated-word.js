@@ -22,15 +22,15 @@ function returnAnyRepeatedWords(str) {
     return null;
     // checkStrings(stringArray);
 }
-function checkStrings(array) {
-    for (let i = 0; i < array.length; i++) {
-        for (let j = 0; j < array.length - 1; j++) {
-            if(array[i].toLowerCase() === array[j].toLowerCase()) {
-                return array[i];
-            }
-        }
-    }
-    return null;
-}
+// function checkStrings(array) {
+//     for (let i = 0; i < array.length; i++) {
+//         for (let j = 0; j < array.length - 1; j++) {
+//             if(array[i].toLowerCase() === array[j].toLowerCase()) {
+//                 return array[i];
+//             }
+//         }
+//     }
+//     return null;
+// }
 
 module.exports = returnAnyRepeatedWords;
