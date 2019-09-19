@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51f161e0-0733-4d60-b7a6-b4e954f220c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Maximum-Value-Trees/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maximum-Value-Trees/.idea/Maximum-Value-Trees.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maximum-Value-Trees/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maximum-Value-Trees/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maximum-Value-Trees/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/duplicate-linked-list.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__tests__/duplicate-linked-list.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicate-linked-list.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Maximum-Value-Trees/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maximum-Value-Trees/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568858558308</updated>
-      <workItem from="1568858559891" duration="3956000" />
+      <workItem from="1568858559891" duration="5669000" />
     </task>
     <servers />
   </component>
