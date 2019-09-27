@@ -1,0 +1,1 @@
+get max funciton, the first question of todays challenge, tests are passing.
