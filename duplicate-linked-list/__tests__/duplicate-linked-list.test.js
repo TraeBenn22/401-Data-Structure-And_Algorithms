@@ -32,7 +32,7 @@ describe('testing function to return a linked list with no duplicate values', ()
         tree.head.next.next.next.next.next.value  = 6;
         tree.head.next.next.next.next.next.next.value = 7;
         console.log(tree);
-        expect(returnFunction(tree.head)).toBe(new Set([ 3,0,1,2,6,7]));
+        expect(returnFunction(tree.head)).toEqual(new Set([ 3,0,1,2,6,7]));
     })
 });
 
